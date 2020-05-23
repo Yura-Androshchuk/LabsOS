@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\OSLab3\OSLab3\bin\Debug\netcoreapp3.1\OSLab3.exe
+C:\Users\Asus\source\repos\OSLab3\OSLab3\bin\Debug\netcoreapp3.1\OSLab3.deps.json
+C:\Users\Asus\source\repos\OSLab3\OSLab3\bin\Debug\netcoreapp3.1\OSLab3.runtimeconfig.json
+C:\Users\Asus\source\repos\OSLab3\OSLab3\bin\Debug\netcoreapp3.1\OSLab3.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\OSLab3\OSLab3\bin\Debug\netcoreapp3.1\OSLab3.dll
+C:\Users\Asus\source\repos\OSLab3\OSLab3\bin\Debug\netcoreapp3.1\OSLab3.pdb
+C:\Users\Asus\source\repos\OSLab3\OSLab3\obj\Debug\netcoreapp3.1\OSLab3.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\OSLab3\OSLab3\obj\Debug\netcoreapp3.1\OSLab3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\OSLab3\OSLab3\obj\Debug\netcoreapp3.1\OSLab3.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\OSLab3\OSLab3\obj\Debug\netcoreapp3.1\OSLab3.AssemblyInfo.cs
+C:\Users\Asus\source\repos\OSLab3\OSLab3\obj\Debug\netcoreapp3.1\OSLab3.dll
+C:\Users\Asus\source\repos\OSLab3\OSLab3\obj\Debug\netcoreapp3.1\OSLab3.pdb
+C:\Users\Asus\source\repos\OSLab3\OSLab3\obj\Debug\netcoreapp3.1\OSLab3.genruntimeconfig.cache
