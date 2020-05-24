@@ -1,0 +1,4 @@
+﻿  OS6.cpp
+LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/PROFILE"
+OS6.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:REF"
+  OS6.vcxproj -> D:\OS\OS6\Debug\OS6.exe
